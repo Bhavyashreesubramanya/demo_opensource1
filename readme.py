@@ -1,3 +1,5 @@
 print("Hello World")
 print("Full stack develpoment")
 print("COMPUTER DEVELOPMENT")
+print("Computer development")
+print("5 th sem")
